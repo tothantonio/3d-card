@@ -1,2 +1,1 @@
-# 3d-card
-Simple web app with a 3d card
+# 3d-card-starter
