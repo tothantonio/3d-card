@@ -1,4 +1,4 @@
-# 3d-card-starter
+# 3d-card
 
 to run the app:
 write in terminal:
